@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class exercicioAula7 {
-    public static void main(String[] args) throws Exception{
+    public static void X_main(String[] args) throws Exception{
         // Faça um Programa que leia três números e mostre o maior deles.
         int numero1, numero2, numero3; 
         Scanner entrada = new Scanner(System.in);
