@@ -1,27 +1,38 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-
-
-## Exercícios de Repetição: 
+## [22-08-2022] Terça-feira Aula 7 - Exercícios de Repetição: 
 
 *Atividade* Escolher 2 exercícios e deesnvolver em casa para a próxima aula. 
 [exercícios] (https://wiki.python.org.br/EstruturaDeRepeticao)
 
 Pode ser online: https://www.onlinegdb.com/
+
+
+
+
+
+
+
+# Explicação sobre a estrutura de pastas
+
+Bem vindo ao mundo Java no VS Code. Está é a estrutura básica de um projeto iniciado a partir do Visual Studio Code na linguagem Java. 
+
+## Estrutura desta basta de projetos
+
+
+O espaço de trabalho (pasta do projeto) contém por padrão 2 pastas, onde: 
+
+- `src`: a pasta que contém os nossos códigos;
+- `lib`: a pasta que contém as dependências e bibliotecas Java
+
+Uma vez que o código seja compilado, será gerada a pasta `bin` automaticamente, nome adotado por padrão.
+
+> Se você quiser personalizar essa estrutura padrão, vai ser preciso entrar no arquivo de configurações do VSCODE `.vscode/settings.json` e atualizar as configurações relacionadas as pastas alteradas.
+* Sugiro fortemente que vocês não alterem a estrutura padrão por enquanto. =]
+
+## Gerenciamento de dependências
+
+Em projetos Java, gerenciar dependências significa entender quais bibliotecas o nosso código precisa, e atualizar com as versões mais atualizadas das bibliotecas necessárias, sem deixar o código `quebrado`, mas principalmente, sem parar de funcionar. 
+
+Mais detalhes podem ser lidos na documentação do VSCODE [link](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
 
