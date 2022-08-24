@@ -18,8 +18,10 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 
-## Link para os Exercícios de Repetição: Escolher 2 exercícios e deesnvolver em casa para a próxima aula. 
-https://wiki.python.org.br/EstruturaDeRepeticao
+## Exercícios de Repetição: 
+
+*Atividade* Escolher 2 exercícios e deesnvolver em casa para a próxima aula. 
+[exercícios] (https://wiki.python.org.br/EstruturaDeRepeticao)
 
 Pode ser online: https://www.onlinegdb.com/
 
