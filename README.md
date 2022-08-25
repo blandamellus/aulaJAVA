@@ -1,3 +1,6 @@
+git remote add origin https://github.com/blandamellus/aulaJAVA.git
+
+
 ## [22-08-2022] Terça-feira Aula 7 - Exercícios de Repetição: 
 
 **Atividade** Escolher 2 exercícios e deesnvolver em casa para a próxima aula. 
