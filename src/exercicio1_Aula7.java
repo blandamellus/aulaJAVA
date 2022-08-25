@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicioAula7 {
+public class exercicio1_Aula7 {
     public static void X_main(String[] args) throws Exception{
         // Faça um Programa que leia três números e mostre o maior deles.
         int numero1, numero2, numero3; 

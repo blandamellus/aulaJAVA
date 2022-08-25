@@ -3,7 +3,7 @@ import java.util.Scanner;
 //import java.util.Scanner;
 
 public class exercicio3_Aula7 {
-    public static void main(String[] args) throws Exception{
+    public static void x_main(String[] args) throws Exception{
         
         // Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
         
