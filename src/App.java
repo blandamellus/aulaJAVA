@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void x_main(String[] args) throws Exception {
         Scanner input = new Scanner(System.in);
     /*
         //exercicio 1
