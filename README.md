@@ -1,4 +1,5 @@
-git remote add origin https://github.com/blandamellus/aulaJAVA.git
+
+## [25-08-2022] Quinta-feira Aula 8 - Configuração das máquinas para envio dos materiais ao repositório da turma.
 
 
 ## [22-08-2022] Terça-feira Aula 7 - Exercícios de Repetição: 
