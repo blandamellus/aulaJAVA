@@ -1,3 +1,11 @@
+
+## [25-08-2022] Quinta-feira Aula 8
+
+- Revisão do conteúdo: Estrutura de Decisão e Estrutura de Repetição.
+  - resolução de exercício com a turma. 
+- Configuração das máquinas para envio dos materiais ao repositório da turma.
+
+
 ## [22-08-2022] Terça-feira Aula 7 - Exercícios de Repetição: 
 
 **Atividade** Escolher 2 exercícios e deesnvolver em casa para a próxima aula. 
