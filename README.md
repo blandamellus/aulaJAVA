@@ -1,5 +1,12 @@
 ## [27-08-2022] Sábado Aula 9 
 
+**Atividade** Na página 13 da apresentação [Apresentaçao Aula 9](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%209.pdf) tem um print dos exercícios iniciais que podem ser feitos. 
+
+- [Exercícios Hackerrank Introdução](https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction)
+- **Ferramenta** Para resolver, usar o próprio site do Hackerrank, depois de resolver ele salva a solução de vocês.
+- **Entrega** Vamos resolver as dúvidas em aula!
+
+
 Revisamos em aula [Apresentaçao Aula 9](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%209.pdf)
 - Regras e Nomes
 - Anatomia do Código
