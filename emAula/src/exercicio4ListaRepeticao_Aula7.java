@@ -9,6 +9,7 @@ public class exercicioRepeticao_Aula7 {
         float perctB = (float) 0.003;
         int ano = 0;
 
+        // continua fazendo a verificação do código, enquanto A ainda for menor B
         while (a < b){
             a = a + a * perctA;
             b = b + b * perctB;
