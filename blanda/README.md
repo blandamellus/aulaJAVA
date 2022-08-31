@@ -1,5 +1,3 @@
-====== Outras explicações ======
-
 # Explicação sobre a estrutura de pastas
 
 Bem vindo ao mundo Java no VS Code. Está é a estrutura básica de um projeto iniciado a partir do Visual Studio Code na linguagem Java. 
