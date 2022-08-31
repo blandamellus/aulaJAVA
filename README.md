@@ -5,7 +5,6 @@ Revisamos em aula [Apresentaçao Aula 10](https://github.com/blandamellus/aulaJA
 - Correção de exercícios e dúvidas para usar o [hackerhank](https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&filters%5Bdifficulty%5D%5B%5D=easy)
 - Visão geral tutorial e documentação, onde tirar dúvidas? [Tutorialspoint/JAVA](https://www.tutorialspoint.com/java/index.htm)
 - **Manipulação de Strings**
-- [Códigos de Exemplo](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/EntendendoString.java)
     - replace()
     - contains()
     - trim()
@@ -13,7 +12,8 @@ Revisamos em aula [Apresentaçao Aula 10](https://github.com/blandamellus/aulaJA
     - toUpperCase
     - substring()
     - equals()
-    
+    - [Confira os Códigos de Exemplo](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/EntendendoString.java)
+
 - **Exercícios para fixar**
     - Increment e Decrement
     - IF/ELSE
