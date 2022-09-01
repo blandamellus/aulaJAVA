@@ -14,7 +14,7 @@ public class EstoqueMedio{
         // mensagem para usuario escr
 
         Qmaximo = entrada.nextInt();
-
+ 
         Qminimo = entrada.nextInt();
       
         System.out.println ("O valor medio é: " + EMedia);
