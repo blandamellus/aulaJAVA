@@ -6,17 +6,14 @@ public class Primeiro {
         String entrada;
             System.out.println("Escreva a inicial de um sexo: ");
             entrada = scan.next();
-            System.out.println(entrada.getClass().getName());
             System.out.println(entrada);
-            if (entrada == "f") {
+            if (entrada.equals("f")) {
                 System.out.println("Feminino");
-            } else if (entrada == "m") {
+            } else if (entrada.equals("m")) {
                 System.out.println("Masculino");
             } else {
                 System.out.println("Inicial inválida");
             }
            
-
-         
     }
 }

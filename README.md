@@ -1,3 +1,27 @@
+## [30-08-2022] Terça-Feira Aula 10 
+
+Revisamos em aula [Apresentaçao Aula 10](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%2010.pdf)
+
+- Correção de exercícios e dúvidas para usar o [hackerhank](https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-introduction&filters%5Bdifficulty%5D%5B%5D=easy)
+- Visão geral tutorial e documentação, onde tirar dúvidas? [Tutorialspoint/JAVA](https://www.tutorialspoint.com/java/index.htm)
+- **Manipulação de Strings**
+    - replace()
+    - contains()
+    - trim()
+    - length()
+    - toUpperCase
+    - substring()
+    - equals()
+    - [Confira os Códigos de Exemplo](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/EntendendoString.java)
+
+- **Exercícios para fixar**
+    - Increment e Decrement
+    - IF/ELSE
+    - Switch/Case
+    - For
+    - While e Do While
+    
+
 ## [27-08-2022] Sábado Aula 9 
 
 **Atividade** Na página 13 da [Apresentaçao Aula 9](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%209.pdf) tem um print dos exercícios iniciais que podem ser feitos. 
