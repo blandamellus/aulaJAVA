@@ -1,4 +1,4 @@
-## [30-08-2022] Sábado Aula 10 
+## [30-08-2022] Terça-Feira Aula 10 
 
 Revisamos em aula [Apresentaçao Aula 10](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%2010.pdf)
 
