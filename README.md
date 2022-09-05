@@ -3,17 +3,17 @@
 Aula para prática e exercícios de fixação, exercícios na [Apresentação Aula 11](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%2011.pdf).
 
 
-###### Atividade
+#### Atividade
 Profissões do futuro. Pesquisar sobre um dos temas abaixo anteriores e escrever um relatório respondendo as seguintes perguntas:
-- Quem trabalha nessa função/cargo tem quais atividades?
+- Quem trabalha nessa função/cargo tem quais atividades? 
 - Quais tecnologias precisa saber?
 - Quais faculdades costuma cursar?
 - Existem empresas no Brasil? E no mundo?
 - Usa alguma linguagem de programação como principal?
 - Qual o salário médio atual?
 
-
-###### Temas para escolher
+#### Temas para escolher
+**Escolha 1 e avise no grupo para não repetir os temas!**
 - Desenvolvedor fullstack
 - Desenvolvedor backend
 - Desenvolvedor Frontend
@@ -21,8 +21,14 @@ Profissões do futuro. Pesquisar sobre um dos temas abaixo anteriores e escrever
 - Qualidade de software
 - Gerente de projetos
 - Cientista de Dados
+- Analista de dados
 - Engenheiro de dados
 - Especialista UI e UX
+- Administrador de Banco de Dados (DBA)
+- DevOps
+- Scrum Master
+- Administrador de Redes/Infraestrutura
+
 
 ##### Data de Entrega 
 
