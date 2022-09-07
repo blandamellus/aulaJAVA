@@ -1,3 +1,40 @@
+## [01-09-2022] Terça-Feira Aula 11
+
+Aula para prática e exercícios de fixação, exercícios na [Apresentação Aula 11](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%2011.pdf).
+
+
+#### Atividade
+Profissões do futuro. Pesquisar sobre um dos temas abaixo anteriores e escrever um relatório respondendo as seguintes perguntas:
+- Quem trabalha nessa função/cargo tem quais atividades? 
+- Quais tecnologias precisa saber?
+- Quais faculdades costuma cursar?
+- Existem empresas no Brasil? E no mundo?
+- Usa alguma linguagem de programação como principal?
+- Qual o salário médio atual?
+
+#### Temas para escolher
+**Escolha 1 e avise no grupo para não repetir os temas!**
+- Desenvolvedor fullstack
+- Desenvolvedor backend
+- Desenvolvedor Frontend
+- Desenvolvedor Mobile
+- Qualidade de software
+- Gerente de projetos
+- Cientista de Dados
+- Analista de dados
+- Engenheiro de dados
+- Especialista UI e UX
+- Administrador de Banco de Dados (DBA)
+- DevOps
+- Scrum Master
+- Administrador de Redes/Infraestrutura
+
+
+##### Data de Entrega 
+
+Entrega do relatório até a próxima aula de **sábado (dia 10/09)**. Enviar por whatsApp ou para o e-mail: blandamellus@gmail.com
+
+
 ## [30-08-2022] Terça-Feira Aula 10 
 
 Revisamos em aula [Apresentaçao Aula 10](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%2010.pdf)
@@ -56,7 +93,7 @@ Revisamos em aula [Apresentaçao Aula 9](https://github.com/blandamellus/aulaJAV
 - Revisão geral e Configuração do Github da turma
 
 
-## [22-08-2022] Terça-feira Aula 7 - Exercícios de Repetição: 
+## [23-08-2022] Terça-feira Aula 7 - Exercícios de Repetição: 
 
 **Atividade** Escolher 2 exercícios e deesnvolver em casa para a próxima aula. 
 
