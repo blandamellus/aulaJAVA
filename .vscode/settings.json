@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "blanda/exercicios/src"
+        "blanda/exercicios/src",
+        "blanda/src"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
