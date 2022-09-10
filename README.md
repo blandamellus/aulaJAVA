@@ -1,12 +1,19 @@
 ## [08-09-2022] Quinta-Feira Aula 13
 
-Confira nossa [aula 13]() na apresentação.
+Confira nossa [aula 13](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%2013.pdf) para ver os desenhos da explicação.
 
 Conteúdo novo: 
 - Vetores
+
+    - [Exemplo 1 com vetores](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula13_EntendendoVerores_1.java)
+    - [Exemplo 2 com vetores](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula13_EntendendoVerores_2.java)
+    - [Exemplo 3 com vetores](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula13_EntendendoVerores_3.java)
+
 - Matrizes
-- Exercícios para fixar em conjunto
-- Desafio em plano cartesiano
+    - [Exemplo 1 com Matrizes](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula13_EntendendoMatrizes_1.java)
+    - [Exemplo 2 com Matrizes](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula13_EntendendoMatrizes_2.java)
+
+- Desenho em plano cartesiano
 
 **Atividade** agora que aprendemos como guardar mais informações do que uma única varíavel, utilizando um vetor, e que é possível guardar informações em mais dimensões (como em uma plano cartesiano), vamos explorar como representar algumas figuras em um plano para entender como funcionam as coordenadas em uma matriz.
 
