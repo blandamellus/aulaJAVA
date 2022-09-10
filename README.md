@@ -5,8 +5,7 @@
 Revisão do conteúdo de vetores e matrizes, [apresentação da Aula 14.]()
     
 #### Vetores
-
-    **Exercício 1** Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
+- **Exercício 1** Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
 
     **Exercício 2** Faça um programa se caixa de mercado, onde o atendente informe o código dos produtos da compra (posições) e o programa retorne o valor total a ser pago.
         
@@ -19,24 +18,24 @@ Revisão do conteúdo de vetores e matrizes, [apresentação da Aula 14.]()
     **Exercício 6** Faça um Programa que leia 20 números inteiros e armazene-os num vetor. Armazene os números pares no vetor PAR e os números IMPARES no vetor impar. Imprima os três vetores.
 
 #### Matrizes
-    - Revisão da estrutura
-    - Exemplo de uma matriz [2x2]
 
-    **Vamos construir um Jogo de Batalha Naval!**
-    [Regras](https://www.javaprogressivo.net/2012/09/jogo-batalha-naval-em-java.html?m=1)
+- Revisão da estrutura
+- Exemplo de uma matriz [2x2]
+
+**Projeto Jogo de Batalha Naval!** [Regras](https://www.javaprogressivo.net/2012/09/jogo-batalha-naval-em-java.html?m=1)
     
+- Legenda pro usuário:
+    - = : água no bloco. Ainda não foi dado tiro.
+    - \* : tiro dado, não há nada ali.
+    - X : tiro dado, havia um navio ali.
     
-    **Legenda pro usuário:**
-    ~ : água no bloco. Ainda não foi dado tiro.
-    * : tiro dado, não há nada ali.
-    X : tiro dado, havia um navio ali.
+**Atividade** Construir nosso próprio jogo de batalha naval. Quais as regras básicas?
     
-    **Atividade** Construir nosso próprio jogo de batalha naval. Quais as regras básicas?
-    1. Temos um tabuleiro de tamanho 5x5.
-    2. Devemos iniciar o tabuleiro sem peças. 
-    3. E para testar, vamos colocar algumas variáveis com valores fixos para não precisar validar a entrada ainda.
-    4. O jogo se batalha naval consiste em darmos um palpite de uma coordenada, e então verificar se acertamos ou não um navio. Para isso, precisamos primeiro, percorrer nossa matriz atrás de um objeto na matriz. 
-    5. Depois se encontrar esse objeto, precisamos verificar se é o nosso ou alguma das outras opções.
+1. Temos um tabuleiro de tamanho 5x5.
+2. Devemos iniciar o tabuleiro sem peças. 
+3. E para testar, vamos colocar algumas variáveis com valores fixos para não precisar validar a entrada ainda.
+4. O jogo se batalha naval consiste em darmos um palpite de uma coordenada, e então verificar se acertamos ou não um navio. Para isso, precisamos primeiro, percorrer nossa matriz atrás de um objeto na matriz. 
+5. Depois se encontrar esse objeto, precisamos verificar se é o nosso ou alguma das outras opções.
     
 
 
