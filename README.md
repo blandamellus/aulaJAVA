@@ -84,7 +84,7 @@ Profissões do futuro. Pesquisar sobre um dos temas abaixo anteriores e escrever
 - Desenvolvedor Mobile (Maiara)
 - Qualidade de software
 - Gerente de projetos
-- Cientista de Dados
+- Cientista de Dados (Eric)
 - Analista de dados
 - Engenheiro de dados
 - Especialista UI e UX
