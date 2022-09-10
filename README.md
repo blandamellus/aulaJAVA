@@ -7,15 +7,15 @@ Revisão do conteúdo de vetores e matrizes, [apresentação da Aula 14.]()
 #### Vetores
 - **Exercício 1** Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
 
-    **Exercício 2** Faça um programa se caixa de mercado, onde o atendente informe o código dos produtos da compra (posições) e o programa retorne o valor total a ser pago.
+- **Exercício 2** Faça um programa de caixa de mercado, onde o atendente informe o código dos produtos da compra (posições) e o programa retorne o valor total a ser pago.
         
-    **Exercício 3** Faça um programa que retorne o valor digitado por extenso, limitando-se a número de 1 a 9.
+- **Exercício 3** Faça um programa que retorne o valor digitado por extenso, limitando-se a número de 1 a 9.
 
-    **Exercício 4** Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa.
+- **Exercício 4** Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa.
 
-    **Exercício 5** Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
+- **Exercício 5** Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
 
-    **Exercício 6** Faça um Programa que leia 20 números inteiros e armazene-os num vetor. Armazene os números pares no vetor PAR e os números IMPARES no vetor impar. Imprima os três vetores.
+- **Exercício 6** Faça um Programa que leia 20 números inteiros e armazene-os num vetor. Armazene os números pares no vetor PAR e os números IMPARES no vetor impar. Imprima os três vetores.
 
 #### Matrizes
 
@@ -78,10 +78,10 @@ Profissões do futuro. Pesquisar sobre um dos temas abaixo anteriores e escrever
 
 #### Temas para escolher
 **Escolha 1 e avise no grupo para não repetir os temas!**
-- Desenvolvedor fullstack
+- Desenvolvedor fullstack (Valentina)
 - Desenvolvedor backend
 - Desenvolvedor Frontend
-- Desenvolvedor Mobile
+- Desenvolvedor Mobile (Maiara)
 - Qualidade de software
 - Gerente de projetos
 - Cientista de Dados
