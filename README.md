@@ -1,3 +1,45 @@
+
+
+## [10-09-2022] Sábado Aula 14
+
+Revisão do conteúdo de vetores e matrizes, [apresentação da Aula 14.]()
+    
+#### Vetores
+
+    **Exercício 1** Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
+
+    **Exercício 2** Faça um programa se caixa de mercado, onde o atendente informe o código dos produtos da compra (posições) e o programa retorne o valor total a ser pago.
+        
+    **Exercício 3** Faça um programa que retorne o valor digitado por extenso, limitando-se a número de 1 a 9.
+
+    **Exercício 4** Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa.
+
+    **Exercício 5** Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
+
+    **Exercício 6** Faça um Programa que leia 20 números inteiros e armazene-os num vetor. Armazene os números pares no vetor PAR e os números IMPARES no vetor impar. Imprima os três vetores.
+
+#### Matrizes
+    - Revisão da estrutura
+    - Exemplo de uma matriz [2x2]
+
+    **Vamos construir um Jogo de Batalha Naval!**
+    [Regras](https://www.javaprogressivo.net/2012/09/jogo-batalha-naval-em-java.html?m=1)
+    
+    
+    **Legenda pro usuário:**
+    ~ : água no bloco. Ainda não foi dado tiro.
+    * : tiro dado, não há nada ali.
+    X : tiro dado, havia um navio ali.
+    
+    **Atividade** Construir nosso próprio jogo de batalha naval. Quais as regras básicas?
+    1. Temos um tabuleiro de tamanho 5x5.
+    2. Devemos iniciar o tabuleiro sem peças. 
+    3. E para testar, vamos colocar algumas variáveis com valores fixos para não precisar validar a entrada ainda.
+    4. O jogo se batalha naval consiste em darmos um palpite de uma coordenada, e então verificar se acertamos ou não um navio. Para isso, precisamos primeiro, percorrer nossa matriz atrás de um objeto na matriz. 
+    5. Depois se encontrar esse objeto, precisamos verificar se é o nosso ou alguma das outras opções.
+    
+
+
 ## [08-09-2022] Quinta-Feira Aula 13
 
 Confira nossa [aula 13](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%2013.pdf) para ver os desenhos da explicação.
