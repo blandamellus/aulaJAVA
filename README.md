@@ -1,7 +1,17 @@
 ## [08-09-2022] Quinta-Feira Aula 13
 
-[Coordenadas do plano cartesiano](https://docs.google.com/file/d/0B7DeV8K6VL-uVjFnTjlwYVlKTzQ/edit?pli=1&resourcekey=0-GXS0bJTRUXFkxNPl15xoRg)
+Confira nossa [aula 13]() na apresentação.
 
+Conteúdo novo: 
+- Vetores
+- Matrizes
+- Exercícios para fixar em conjunto
+- Desafio em plano cartesiano
+
+**Atividade** agora que aprendemos como guardar mais informações do que uma única varíavel, utilizando um vetor, e que é possível guardar informações em mais dimensões (como em uma plano cartesiano), vamos explorar como representar algumas figuras em um plano para entender como funcionam as coordenadas em uma matriz.
+
+- **Material** [Coordenadas do plano cartesiano](https://docs.google.com/file/d/0B7DeV8K6VL-uVjFnTjlwYVlKTzQ/edit?pli=1&resourcekey=0-GXS0bJTRUXFkxNPl15xoRg). Copie as coordenadas e vamos criar nossas matrizes para descobrir como ficam os desenhos!
+- **Entrega** Após finalizado vamos resolver em conjunto!
 
 
 ## [01-09-2022] Terça-Feira Aula 11
