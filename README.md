@@ -2,12 +2,12 @@
 
 ## [10-09-2022] Sábado Aula 14
 
-Revisão do conteúdo de vetores e matrizes, [apresentação da Aula 14.]()
+Revisão do conteúdo de vetores e matrizes, [apresentação da Aula 14.](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%2014.pdf)
     
 #### Vetores
-- **Exercício 1** Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
+- **Exercício 1**[Resolvido AQUI: Aula14_exercicio_1](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula14_exercicio_1.java) Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
 
-- **Exercício 2** Faça um programa de caixa de mercado, onde o atendente informe o código dos produtos da compra (posições) e o programa retorne o valor total a ser pago.
+- **Exercício 2**[Resolvido AQUI: Aula14_exercicio_2](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula14_exercicio_2.java) Faça um programa de caixa de mercado, onde o atendente informe o código dos produtos da compra (posições) e o programa retorne o valor total a ser pago.
         
 - **Exercício 3** Faça um programa que retorne o valor digitado por extenso, limitando-se a número de 1 a 9.
 
@@ -20,7 +20,7 @@ Revisão do conteúdo de vetores e matrizes, [apresentação da Aula 14.]()
 #### Matrizes
 
 - Revisão da estrutura
-- Exemplo de uma matriz [2x2]
+- Exemplo de uma matriz [2x2] [Resolvido AQUI: Aula14_exemplo_matriz](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula14_exemplo_matriz.java)
 
 **Projeto Jogo de Batalha Naval!** [Regras](https://www.javaprogressivo.net/2012/09/jogo-batalha-naval-em-java.html?m=1)
     
