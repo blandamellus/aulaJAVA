@@ -1,3 +1,9 @@
+## [08-09-2022] Quinta-Feira Aula 13
+
+[Coordenadas do plano cartesiano](https://docs.google.com/file/d/0B7DeV8K6VL-uVjFnTjlwYVlKTzQ/edit?pli=1&resourcekey=0-GXS0bJTRUXFkxNPl15xoRg)
+
+
+
 ## [01-09-2022] Terça-Feira Aula 11
 
 Aula para prática e exercícios de fixação, exercícios na [Apresentação Aula 11](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%2011.pdf).

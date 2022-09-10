@@ -1,4 +1,6 @@
 public class EntendendoString {
+    private static char charAt;
+
     public static void main (String[] args) throws Exception {
         int numero;
         int numero1 = 0;
@@ -30,10 +32,22 @@ public class EntendendoString {
         System.out.println(s3.toUpperCase());
 
         //subtrai os caracteres de 0 ate o indice informado
-        String s6 = "zilliee";
+        String s6 = "zillieeeeeeeeeeeee";
         s.substring(7);
         System.out.println (s6);
 
-        
+        // contar as vogais 
+        String s8 = "teste";
+        int vogal = 0; 
+
+        for (int j = 0; j < s8.length(); j++){
+            char carac = s8.charAt(j); 
+            if (carac == 'a' || carac == 'e' ||  carac == 'i' || carac =='o'  || carac == 'u') {
+                vogal ++; 
+
+            }
+
+        }
+     System.out.println ("total " + vogal);  
 }
 }
