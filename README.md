@@ -1,3 +1,12 @@
+## [13-09-2022] Sábado Aula 15
+
+- **Exercício 1** Faça um programa que retorne o valor digitado por extenso, limitando-se a número de 1 a 9.
+
+- **Exercício 2** Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa.
+
+- **Exercício 3** Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
+
+- **Exercício 4** Faça um Programa que leia 20 números inteiros e armazene-os num vetor. Armazene os números pares no vetor PAR e os números IMPARES no vetor impar. Imprima os três vetores.
 
 
 ## [10-09-2022] Sábado Aula 14
@@ -9,14 +18,6 @@ Revisão do conteúdo de vetores e matrizes, [apresentação da Aula 14.](https:
 
 - **Exercício 2**[Resolvido AQUI: Aula14_exercicio_2](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula14_exercicio_2.java) Faça um programa de caixa de mercado, onde o atendente informe o código dos produtos da compra (posições) e o programa retorne o valor total a ser pago.
         
-- **Exercício 3** Faça um programa que retorne o valor digitado por extenso, limitando-se a número de 1 a 9.
-
-- **Exercício 4** Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa.
-
-- **Exercício 5** Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
-
-- **Exercício 6** Faça um Programa que leia 20 números inteiros e armazene-os num vetor. Armazene os números pares no vetor PAR e os números IMPARES no vetor impar. Imprima os três vetores.
-
 #### Matrizes
 
 - Revisão da estrutura
