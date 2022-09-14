@@ -1,4 +1,4 @@
-## [13-09-2022] Sábado Aula 15
+## [13-09-2022] Terça Aula 15
 
 
 #### Segunda parte da aula:
@@ -112,11 +112,11 @@ Profissões do futuro. Pesquisar sobre um dos temas abaixo anteriores e escrever
 
 #### Temas para escolher
 **Escolha 1 e avise no grupo para não repetir os temas!**
-- Desenvolvedor fullstack (Valentina)
-- Desenvolvedor backend
+- Desenvolvedor Fullstack (Valentina)
+- Desenvolvedor Backend (Cauan)
 - Desenvolvedor Frontend
-- Desenvolvedor Mobile (Maiara)
-- Qualidade de software
+- Desenvolvedor Mobile (Maiara) (Arthur)
+- Qualidade de software (pablo)
 - Gerente de projetos
 - Cientista de Dados (Eric)
 - Analista de dados
