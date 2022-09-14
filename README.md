@@ -1,4 +1,4 @@
-## [13-09-2022] Sábado Aula 15
+## [13-09-2022] Terça Aula 15
 
 - **Exercício 1** Faça um programa que retorne o valor digitado por extenso, limitando-se a número de 1 a 9.
 
