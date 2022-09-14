@@ -78,13 +78,13 @@ Revisão do conteúdo de vetores e matrizes, [apresentação da Aula 14.](https:
 Confira nossa [aula 13](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%2013.pdf) para ver os desenhos da explicação.
 
 Conteúdo novo: 
-- Vetores
+- **Vetores**
 
     - [Exemplo 1 com vetores](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula13_EntendendoVerores_1.java)
     - [Exemplo 2 com vetores](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula13_EntendendoVerores_2.java)
     - [Exemplo 3 com vetores](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula13_EntendendoVerores_3.java)
 
-- Matrizes
+- **Matrizes**
     - [Exemplo 1 com Matrizes](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula13_EntendendoMatrizes_1.java)
     - [Exemplo 2 com Matrizes](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula13_EntendendoMatrizes_2.java)
 
@@ -94,6 +94,7 @@ Conteúdo novo:
 
 - **Material** [Coordenadas do plano cartesiano](https://docs.google.com/file/d/0B7DeV8K6VL-uVjFnTjlwYVlKTzQ/edit?pli=1&resourcekey=0-GXS0bJTRUXFkxNPl15xoRg). Copie as coordenadas e vamos criar nossas matrizes para descobrir como ficam os desenhos!
 - **Entrega** Após finalizado vamos resolver em conjunto!
+
 
 
 ## [01-09-2022] Terça-Feira Aula 11
@@ -168,22 +169,47 @@ Revisamos em aula [Apresentaçao Aula 10](https://github.com/blandamellus/aulaJA
 
 Revisamos em aula [Apresentaçao Aula 9](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%209.pdf)
 - Regras e Nomes
+    - Exemplo de código usando Constantes [Exemplo](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/UsoConstantes.java)
 - Anatomia do Código
 - Comentário linha e bloco
 - Incremento e Decremento
+    - Exemplo variáveis de Incremento e Decremento i++ e i-- [Exemplo](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/IncrementoDecremento.java)
 - IF/ELSE
 - Switch/Case
 - For/IF/ELSE aninhados
 
-### Arquivos das resolução de exercícios
 
-- [ConceitoNotas.java](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/ConceitoNotas.java)
+#### Arquivos das resolução de exercícios
+
+- **Exercício 1** Faça um algoritmo que receba 4 notas, calcule a média e em seguida exiba o conceito do aluno conforme as regras: [Resolução](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/ConceitoNotas.java)
+    - Aluno com nota acima de 8 = A;
+    - Aluno com nota entre 6 e 7 = B;
+    - Aluno com nota entre 3 e 5 = C;
+    - Aluno com nota entre 0 e 2 = D e Reprovado!
+
+- **Exercício 2** Faça um algoritmo que receba um número e exiba o mês do ano correspondente. [Resolução](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/Switch.java)
+ 
+
+- **Exercício 3** Faça um programa que, que receba o valor da temperatura em graus celsius (Cº), converta e exiba em Kelvin (K), Réaumur (Re), Rankine (Ra) e Fahrenheit (F). As fórmulas estão abaixo: [Resolução](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/Temperatura.java)
+    - F = C * 1.8 + 32; 
+    - K = C + 273.15; 
+    - Re = C * 0.8; 
+    - Ra = C * 1.8 + 32 + 459.67
+    
 - [EstruturaFor.java](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/EstruturaFor.java)
-- [HomensMulheres.java](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/HomensMulheres.java)
-- [IncrementoDecremento.java](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/IncrementoDecremento.java)
-- [Switch.java](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/Switch.java)
-- [Temperatura.java](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/Temperatura.java)
-- [UsoConstantes.java](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/UsoConstantes.java)
+
+
+- **Exercício 4** Tem-se um conjunto de dados contendo a altura e o sexo (masculino, feminino) de 10 pessoas. Fazer um algoritmo que calcule e escreva: [Resolução](https://github.com/blandamellus/aulaJAVA/blob/main/emAula/src/HomensMulheres.java)
+    - a. a maior e a menor altura do grupo;
+    - b. média de altura dos homens;
+    - c. o número de mulheres. 
+
+
+
+
+
+
+
 
 
 ## [25-08-2022] Quinta-feira Aula 8 
