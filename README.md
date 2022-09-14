@@ -3,7 +3,7 @@
 
 #### Segunda parte da aula:
     
-Evoluímos nosso **Projeto Batalha Naval**, e implementamos as seguintes regras
+Evoluímos nosso **Projeto Batalha Naval**, e implementamos as seguintes regras [Resolução com novas regras](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula15_ProjetoBatalhaNaval.java)
 - Procurar uma coordenada no tabuleiro e verificar se existe algum objeto;
 - Retornar uma mensagem se acertou ou errou;
 - Alterar o tabuleiro com os tiros já dados;
