@@ -1,10 +1,43 @@
 ## [13-09-2022] Sábado Aula 15
 
-- **Exercício 1** Faça um programa que retorne o valor digitado por extenso, limitando-se a número de 1 a 9.
 
-- **Exercício 2** Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa.
+#### Segunda parte da aula:
+    
+Evoluímos nosso **Projeto Batalha Naval**, e implementamos as seguintes regras
+- Procurar uma coordenada no tabuleiro e verificar se existe algum objeto;
+- Retornar uma mensagem se acertou ou errou;
+- Alterar o tabuleiro com os tiros já dados;
+    - Legenda:
+    - |N| = Navio
+    - |H| = Helicóptero
+    - |B| = Barquinho
+    - |A| = Água
+    - |*| = tiro na água. Quando usuário não acerta
+    - |X| = tiro certeiro. Quando usuário acerta algo.
 
-- **Exercício 3** Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
+#### Primeira parte da aula: 
+
+Resolução de exercícios que toquem todos os conteúdos já estudados
+- Operadores
+    - Aritméticos
+    - Precedência
+    - Operadores Lógicos
+    - Operadores Relacionais
+    - Operadores de Igualdade
+- Tipos de dados
+    - Int, Double, char, String
+- Estruturas de Decisão
+    if / else / switch
+Estruturas de Repetição
+    - For / While / Do While
+
+**🚴‍♀️Exercitando tudo junto e misturado nos exercícios abaixo:🚴‍♀️**
+
+- **Exercício 1** Faça um programa que retorne o valor digitado por extenso, limitando-se a número de 1 a 9. [Resolução](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula15_exercicio_1.java)
+
+- **Exercício 2** Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa. [Resolução](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula15_exercicio_1.java)
+
+- **Exercício 3** Faça um Programa que leia 4 notas, mostre as notas e a média na tela. [Resolução](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula15_exercicio_1.java)
 
 - **Exercício 4** Faça um Programa que leia 20 números inteiros e armazene-os num vetor. Armazene os números pares no vetor PAR e os números IMPARES no vetor impar. Imprima os três vetores.
 
@@ -14,14 +47,14 @@
 Revisão do conteúdo de vetores e matrizes, [apresentação da Aula 14.](https://github.com/blandamellus/aulaJAVA/blob/main/materialAula/Aula%2014.pdf)
     
 #### Vetores
-- **Exercício 1**[Resolvido AQUI: Aula14_exercicio_1](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula14_exercicio_1.java) Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
+- **Exercício 1** Faça um Programa que leia um vetor de 5 números inteiros e mostre-os. [Resolução](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula14_exercicio_1.java)
 
-- **Exercício 2**[Resolvido AQUI: Aula14_exercicio_2](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula14_exercicio_2.java) Faça um programa de caixa de mercado, onde o atendente informe o código dos produtos da compra (posições) e o programa retorne o valor total a ser pago.
+- **Exercício 2** Faça um programa de caixa de mercado, onde o atendente informe o código dos produtos da compra (posições) e o programa retorne o valor total a ser pago. [Resolvido](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula14_exercicio_2.java)
         
 #### Matrizes
 
 - Revisão da estrutura
-- Exemplo de uma matriz [2x2] [Resolvido AQUI: Aula14_exemplo_matriz](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula14_exemplo_matriz.java)
+- Exemplo de uma matriz [2x2] [Resolução v1](https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Aula14_exemplo_matriz.java)
 
 **Projeto Jogo de Batalha Naval!** [Regras](https://www.javaprogressivo.net/2012/09/jogo-batalha-naval-em-java.html?m=1)
     
