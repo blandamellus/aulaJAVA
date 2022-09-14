@@ -105,6 +105,7 @@ Aula para prática e exercícios de fixação, exercícios na [Apresentação Au
 
 #### Atividade
 Profissões do futuro. Pesquisar sobre um dos temas abaixo anteriores e escrever um relatório respondendo as seguintes perguntas:
+[Relatórios entregues](https://github.com/blandamellus/aulaJAVA/tree/main/materialAula/Relatorios%20profissoes)
 - Quem trabalha nessa função/cargo tem quais atividades? 
 - Quais tecnologias precisa saber?
 - Quais faculdades costuma cursar?
@@ -114,17 +115,17 @@ Profissões do futuro. Pesquisar sobre um dos temas abaixo anteriores e escrever
 
 #### Temas para escolher
 **Escolha 1 e avise no grupo para não repetir os temas!**
-- Desenvolvedor Fullstack (Valentina)
-- Desenvolvedor Backend (Cauan)
+- Desenvolvedor Fullstack **(Valentina)**
+- Desenvolvedor Backend **(Cauan)**
 - Desenvolvedor Frontend
-- Desenvolvedor Mobile (Maiara) (Arthur)
-- Qualidade de software (pablo)
+- Desenvolvedor Mobile **(Maiara) (Arthur)**
+- Qualidade de software **(Pablo)**
 - Gerente de projetos
-- Cientista de Dados (Eric)
+- Cientista de Dados **(Eric)**
 - Analista de dados
 - Engenheiro de dados
 - Especialista UI e UX
-- Administrador de Banco de Dados (DBA)
+- Administrador de Banco de Dados - DBA
 - DevOps
 - Scrum Master
 - Administrador de Redes/Infraestrutura
