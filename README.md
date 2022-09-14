@@ -1,5 +1,6 @@
 ## [13-09-2022] Terça Aula 15
 
+Para consultar nosso material da aula 15, [acesar AQUI]
 
 #### Segunda parte da aula:
     
