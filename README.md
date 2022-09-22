@@ -145,17 +145,17 @@ Profissões do futuro. Pesquisar sobre um dos temas abaixo anteriores e escrever
 **Escolha 1 e avise no grupo para não repetir os temas!**
 - Desenvolvedor Fullstack **(Valentina)**
 - Desenvolvedor Backend **(Cauan)**
-- Desenvolvedor Frontend
+- Desenvolvedor Frontend **(Aims)**
 - Desenvolvedor Mobile **(Maiara) (Arthur)**
 - Qualidade de software **(Pablo)**
-- Gerente de projetos
+- Gerente de projetos **(Giseli)**
 - Cientista de Dados **(Eric)**
-- Analista de dados
-- Engenheiro de dados
-- Especialista UI e UX
-- Administrador de Banco de Dados - DBA
-- DevOps
-- Scrum Master
+- Analista de dados **(Othavio)**
+- Engenheiro de dados **(Henri)**
+- Especialista UI e UX **(Davi)**
+- Administrador de Banco de Dados - DBA **(Nicolas)**
+- DevOps **(João)**
+- Scrum Master **(Pedro)**
 - Administrador de Redes/Infraestrutura
 
 
