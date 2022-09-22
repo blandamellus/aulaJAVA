@@ -1,3 +1,31 @@
+
+## [22-09-2022] Quinta-feira - Aula 001 (POO)
+
+
+Iniciamos um novo módulo no curso, denominado Programação Orientada à Objetos POO. 
+
+
+#### Exercícios de revisão do módulo anterior
+
+- **Exercício 1** Crie uma aplicação Java que preencha um vetor com 10 números pares.
+- **Exercício 2** Crie uma aplicação Java que crie uma matriz de 4 x 4 e adicione os valores para cada uma das posições.
+- **Exercício 3** Escrever um programa declarando três variáveis do tipo inteiro (a, b e c). Ler um valor maior que zero para cada variável (se o valor digitado não é válido, mostrar mensagem e ler novamente). Exibe o menor valor lido
+multiplicado pelo maior e o maior valor dividido pelo menor.[20]
+- **Exercício 4** Faça um programa que leia um número inteiro e mostre uma mensagem na tela indicando se este número é
+positivo ou negativo. Pare a execução do programa quando o usuário requisitar[21].
+- **Exercício 5** Escreva um programa que exiba as seguintes opções, o usuário informe 2 número e escolha qual das opções deseja realizar, e mostre o resultado[23]:
+    - 1 – Adição
+    - 2 – Subtração
+    - 3 – Multiplicação
+    - 4 – Divisão
+    
+- **Exercício 6** Faça um programa que exiba os números de 1 até 2000. [29]
+- **Exercício 7** Faça um programa para imprimir uma tabuada. [30]
+
+
+--- 
+---
+
 ## [13-09-2022] Terça Aula 15
 
 Para consultar nosso material da aula 15, [acesar AQUI]
