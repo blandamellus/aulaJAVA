@@ -24,11 +24,16 @@ class Pessoa{
     public void comer(String comida, String bebida){
         
         System.out.println("mastiga...mastiga...mastiga");
-        System.out.println(this.nome + "está comendo " + comida + " e bebendo " + bebida);
+        System.out.println(this.nome + " está comendo " + comida + " e bebendo " + bebida);
     }
 
-    public void pensar(){
-        System.out.println(".....pensando....");
+    // boolean nomeDaVariavel;
+    public void pensar(boolean dormindo){ // true / false
+        if (dormindo == true) {
+            System.out.println("S... sonhando ... z.Z.Z.zz");
+        } else {
+            System.out.println(".....pensando....");
+        }
     }
 }
 
@@ -49,7 +54,7 @@ public class Executar {
         alienigena.porte = "atlético";
 
         // métodos da classe
-        serHumano.pensar();
+        serHumano.pensar(false);
         serHumano.andar(2.5);
         serHumano.andar();
         // duas instancias utilizando os mesmos métodos e exibindo suas características
@@ -58,7 +63,5 @@ public class Executar {
 
         serHumano.andar(5.0);
         alienigena.andar(11.5);
-
-
     }
 }
