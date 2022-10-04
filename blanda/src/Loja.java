@@ -12,10 +12,10 @@ class LojaEletronicos{
         String [] vPedidos = new String[8];
         return vPedidos;
     }
+    //https://github.com/blandamellus/aulaJAVA/
 
     public void vender(String nomeCliente){
         System.out.println("Estou vendo um pedido fechado.");
-
     }
     
     public void comprar(int cnpj, String nomeProduto){
@@ -24,7 +24,6 @@ class LojaEletronicos{
     } 
 
     public void trocar(){}
-
     public void consertar(){}
 
 }
