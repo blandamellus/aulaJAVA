@@ -1,3 +1,16 @@
+## [28-09-2022] Quarta-feira - Aula 003 (POO)
+
+Aula prática com os conceitos de Programação Orientada a Objetos (POO) 
+- Classes, 
+- Atríbutos de classe
+- Métodos
+- Sobrecarga de métodos
+
+- ** Exercício 1 e 2:** [Resolução](
+https://github.com/blandamellus/aulaJAVA/blob/main/blanda/src/Executar.java)
+
+## [24-09-2022] sábado - Aula 002 (POO)
+
 
 ## [22-09-2022] Quinta-feira - Aula 001 (POO)
 

@@ -35,6 +35,28 @@ class Pessoa{
             System.out.println(".....pensando....");
         }
     }
+
+    public void estudar(String disciplina, Double horas){
+        System.out.println(this.nome + " está estudando " + disciplina + " a muito tempo, cerca de " + horas + " horas");
+    }
+
+    // true e false
+    public void dormir(boolean dentesLimpos){
+        if (dentesLimpos == true) {
+            System.out.println(this.nome + " já está indo para cama dormir.");
+        } else{
+            System.out.println(this.nome + " esqueceu de escovar os dentes, e não pode ir dormir ainda.");
+        }
+    }
+}
+
+class Aluno extends Pessoa{
+    String matricula;
+
+    public static void cursarDisciplina(String nomeDisciplina){
+        
+    }
+
 }
 
 public class Executar {
@@ -63,5 +85,18 @@ public class Executar {
 
         serHumano.andar(5.0);
         alienigena.andar(11.5);
+
+        // exercicio 1 ? método estudar
+        serHumano.estudar("Programação em Java", 3.0);
+        alienigena.estudar("cósmologia", 10.0);
+
+        boolean escovado = false;
+
+        serHumano.dormir(escovado);
+        alienigena.dormir(true);
+
+        //Aluno al = new Aluno();
+        
+
     }
 }
