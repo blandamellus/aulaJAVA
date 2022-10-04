@@ -43,12 +43,12 @@ public class EntendendoString {
       //
       System.out.println(s3.toLowerCase());
 
-      String s6 ="universidade"
+      String s6 ="universidade";
       s6 = s6.substring(7);
       System.out.println(s6);
 
       s6 = s6.substring(5);
-      System.out.println(s6)
+      System.out.println(s6);
     }
     
 }
