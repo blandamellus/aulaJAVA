@@ -1,0 +1,15 @@
+PROVA REAL
+## Primeira volta do FOR ##
+altura = 1.65 | maiorAltura = 0
+maiorAltura = 1.65 
+
+altura = 1.65 | menorAltura = 0
+menorAltura = 1.65 
+
+## Segunda volta do FOR ##
+altura = 1.82 | maiorAltura 1.65
+maiorAltura = altura
+
+altura = 1.82 | menorAltura = 1.65
+menorAltura = 1.65
+

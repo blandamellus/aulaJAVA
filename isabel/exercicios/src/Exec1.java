@@ -1,4 +1,4 @@
-public class Exec1 {
+public class 
     public static void main (String[] args)
     int num1;
     int contador = 0;
