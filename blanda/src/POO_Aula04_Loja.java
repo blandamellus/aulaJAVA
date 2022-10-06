@@ -36,7 +36,7 @@ class LojaEletronicos{
     }
 
 }
-public class Loja {
+public class POO_Aula04_Loja {
     public static void main(String[] args) throws Exception {      
         Scanner entrada = new Scanner(System.in);
 
