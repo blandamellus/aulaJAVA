@@ -50,9 +50,9 @@ class Aluno extends Pessoa {
 class Professor { 
     String disciplina;
     String diaDeAula;
-
-    public void darAula(String diaAula){
-        if(diaAula == diaDeAula){
+    
+    public void darAula(String diaAulaString){
+        if(diaDeAula.contains(diaAulaString)){
             System.out.println("Correto! O professor dará aula neste dia");    
         } else{
             System.out.println("O professor não dará aula neste dia");

@@ -32,12 +32,10 @@ public class App {
         String duvida;
 
         System.out.println("Qual dia você quer saber se o professor vai dar aula?");
-        diadeaula = entrada.next();
+        diadeaula = entrada.next();        
         professor.darAula(diadeaula);
         System.out.println("Qual sua dúvida?");
         duvida = entrada.next();
         professor.tirarDuvidas(duvida);
-
-
     }
 }
