@@ -22,7 +22,7 @@ class LojaEletronicos{
         System.out.println("Estou vendendo um pedido fechado para " + nomeCliente );
     }
     
-    public void comprar(int cnpj, String nomeProduto){
+    public void comprar(long cnpj, String nomeProduto){
         System.out.println("Comprando nova mercadoria");
         System.out.println("Pedido de " +  nomeProduto + " realizado em nome do CNPJ: " + cnpj);
     } 
@@ -51,7 +51,7 @@ public class POO_Aula04_Loja {
         gamerX.ssd = "500 Gb pcle";
         
         // cnpj = 9 digitos
-        gamerX.comprar(105000151, "NVIDIA");
+        gamerX.comprar(10500015187612, "NVIDIA");
         gamerX.vender("Antonio");
         gamerX.trocar("mouse", "Maria");
         

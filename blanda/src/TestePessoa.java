@@ -59,7 +59,7 @@ class Aluno extends Pessoa{
 
 }
 
-public class Executar {
+public class TestePessoa {
     public static void main(String[] args) throws Exception {
 
         // Inserindo informações nos atrbutos da classe pessoas
