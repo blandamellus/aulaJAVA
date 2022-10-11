@@ -1,4 +1,4 @@
-class __Pessoa{
+class Pessoa{
     Double altura = 0.30;
     Double peso;
     String nome = "";
@@ -50,19 +50,26 @@ class __Pessoa{
     }
 }
 
+class Aluno extends Pessoa{
+    String matricula;
 
+    public static void cursarDisciplina(String nomeDisciplina){
+        
+    }
 
-public class Executar {
+}
+
+public class TestePessoa {
     public static void main(String[] args) throws Exception {
 
         // Inserindo informações nos atrbutos da classe pessoas
-        __Pessoa serHumano = new __Pessoa();
+        Pessoa serHumano = new Pessoa();
         serHumano.nome = "Blanda Helena";
         serHumano.altura = 1.71;
         serHumano.peso = 60.0;
         serHumano.porte = "sedentaria";
         
-        __Pessoa alienigena = new __Pessoa();
+        Pessoa alienigena = new Pessoa();
         alienigena.nome = "ET";
         alienigena.altura = 1.20;
         alienigena.peso = 35.0;
