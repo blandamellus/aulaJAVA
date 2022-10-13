@@ -25,9 +25,13 @@ public class LampadaTeste {
         incandescente.setMarca("Taschibra");
         incandescente.setPreco(25.0);
         incandescente.setPotencia(300);
-        incandescente.ligar();
+        incandescente.ligar(); // método para ligar, atributo status = true
 
         System.out.println(incandescente.toString());
+
+
+
+        
     }
 
 }
