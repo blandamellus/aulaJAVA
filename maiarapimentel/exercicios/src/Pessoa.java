@@ -37,4 +37,15 @@ class Aluno extends Pessoa {
         System.out.println("comendo comida vegana...");
     }
 
+    class Professor extends Pessoa {
+        String DiaDeAula;
+        String disciplina;
+        Boolean darAula;
+    
+        public void disciplina(){
+            System.out.println("Matematica");
+        }
+        public void comer(){
+            System.out.println("comendo comida vegetariana...);
+        }
 }
