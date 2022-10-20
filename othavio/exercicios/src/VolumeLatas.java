@@ -12,7 +12,8 @@ public class VolumeLatas{
         System.out.print("Digite a altura: ");
         altura = entrada.nextDouble();
 
-        Volume = 3.14159 * raio * raio * altura;
+        Volume = 3.141592653595
+         * raio * raio * altura;
 
         System.out.print("O Volume da lata é " + Volume + "\n");
 
