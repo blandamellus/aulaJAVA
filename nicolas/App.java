@@ -1,27 +1,21 @@
-import java.util.*;
+public class App{
 
-public class App {
-    public static void x_main(String[] args) throws Exception {
-        Scanner input = new Scanner(System.in);
-    /*
-        //exercicio 1
-        System.out.println("Hello, World!");    
+    public static void main(String[] args) {
         
-        //exercicio 2
-        int numero = input.nextInt();
-        System.out.println("O numero informado foi: " + numero);
-    */
-
-        //exercicio 3
-        int numero1, numero2, soma;
-        System.out.println("Informe um numero: ");
-        numero1 = input.nextInt();
-        System.out.println("Informe um numero: ");
-        numero2 = input.nextInt();
-        soma = numero1 + numero2;
-        System.out.println(soma);
+        Pessoa serHumano = new Pessoa();
+        //serHumano.altura = 1.80;
+        //serHumano.idade = 25;
+        //serHumano.nome = "Matheus Andrade";
+        
+        serHumano.setNome("teste");
+        serHumano.getNome();
+        serHumano.peso = 80.0;
+        serHumano.comer();
 
 
-
+        Aluno aluno = new Aluno();
+        aluno.curso = "técnico em informática";
+        aluno.disciplina = "Programação java";
+        aluno.comer();
     }
 }
