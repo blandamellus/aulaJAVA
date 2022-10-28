@@ -4,7 +4,7 @@ public class Lista_01 {
 
         ArrayList<String> lista = new ArrayList<>();
         vetor[0] = "alguma informação ao meu vetor";
-        lista.add(e: "alguma informação na minha lista");
+        lista.add("alguma informação na minha lista");
         
         System.out.println(lista);
         System.out.println(vetor);
