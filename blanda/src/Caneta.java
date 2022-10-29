@@ -42,8 +42,11 @@ public class Caneta{
 
     // toString
     public String toString(){
-        
         return "Caneta \n\tTamanho: " + this.tamanho + "\n\tCor: " + this.cor + "\n\tMarca: " + this.marca;
+
+        // 2022-10-29 ISO
+        // 29-10-2022 BR
+        // 10-29-2022 ISO 86
     }
 
 }

@@ -7,8 +7,7 @@ import java.util.Scanner;
 
 public class POOAula13_LerArquivos {
     public static void main(String[] args) throws Exception {
-        Scanner entrada = new Scanner(System.in);
-
+     
         String caminhoDoArquivo = "C:/tmp/";
         String nomeArquivo = "arquivo.txt";
         

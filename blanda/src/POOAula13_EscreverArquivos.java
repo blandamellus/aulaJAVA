@@ -18,7 +18,7 @@ public class POOAula13_EscreverArquivos {
         System.out.println("Escreva algo: ");
         conteudo = entrada.nextLine();
         bufWrite.append(conteudo);
-        bufWrite.close();
+bufWrite.close();
 
        
 
