@@ -87,8 +87,8 @@ class ContatoEscolar extends Contato{
     public  boolean getEhProfessor(){
         return this.ehProfessor;
     }
-    public void setEhProfessor(booelan ehProfessor){
-        this.ehProfessor = ehProfessor ;
+    public void setEhProfessor(boolean ehProfessor){
+        this.ehProfessor = ehProfessor;
     }
     public boolean getEhAmigo(){
         return this.ehAmigo;
@@ -97,9 +97,10 @@ class ContatoEscolar extends Contato{
         this.ehAmigo = ehAmigo;
     }
 
-
     public String toString(){
         String amigo="";
+        String colega = "";
+        String professor = "";
 
         if (this.ehAmigo == true) {
             amigo = "Sim";
@@ -109,19 +110,20 @@ class ContatoEscolar extends Contato{
         String mensagem="";
         mensagem = "\n\tÉ amigo? " + amigo;
 
-        if (this.ehColega == false){
-            ehColega = "Sim";
+        if (this.ehColega == true){
+            colega = "Sim";
         }else{
-            ehColega = "Não";
+            colega = "Não";
         }
-        mensagem += "\n\tÉ colega? " + ehColega; 
+        mensagem += "\n\tÉ colega? " + colega; 
 
-        if (this.ehProfessor == false) {
-            ehProfessor = "Sim";
+        if (this.ehProfessor == true) {
+            professor = "Sim";
         } else{
-            ehProfessor = "Não";
+            professor = "Não";
         }
-        mensagem += "\n\tÉ professor?" + ehProfessor;
+        mensagem += "\n\tÉ professor?" + professor;
+        return mensagem;
     }
 
 }
@@ -185,7 +187,7 @@ class Email {
     public String getEmialSecundario (){
         return this.emailSecundario;
     }
-    public void emailSecundario (String emailSecundario){
+    public void setEmailSecundario (String emailSecundario){
         this.emailSecundario = emailSecundario;
     }
     public String toString (){
