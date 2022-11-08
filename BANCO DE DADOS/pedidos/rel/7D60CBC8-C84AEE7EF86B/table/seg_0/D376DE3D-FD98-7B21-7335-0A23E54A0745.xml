@@ -1,0 +1,67 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D376DE3D-FD98-7B21-7335-0A23E54A0745" name="PEDIDOS">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:43:26 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<ordsAlias>table_10</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CPF" id="9DDA9AA4-44D6-79D8-B76E-5CBBAD172EF1">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:46:59 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NOME" id="CE3A3B3D-64DA-F4B9-02A4-88749BB1B1C2">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:46:59 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ENDERECO" id="56AA52C0-850A-61FC-BB06-CFDF47CDF944">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:46:59 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ID" id="32418F60-CADC-26D3-1836-050220479A92">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:47:42 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="VALOR" id="3290EE94-EBB2-7E9F-7040-9D05B0869FDD">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:52:26 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

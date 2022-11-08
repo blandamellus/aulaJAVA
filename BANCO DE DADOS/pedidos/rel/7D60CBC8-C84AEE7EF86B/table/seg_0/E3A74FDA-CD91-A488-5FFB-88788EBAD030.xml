@@ -1,0 +1,45 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="E3A74FDA-CD91-A488-5FFB-88788EBAD030" name="CARDAPIO">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:26:34 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<ordsAlias>table_3</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID" id="8F170A88-5670-1031-93B0-66F679788E5B">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:27:09 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NOME" id="06F50991-6EF1-FA7B-CF8F-586A0B5BAC48">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:27:25 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="VALOR" id="E044D407-BA25-B8D0-4D87-2EFAAC7AD0D3">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:32:02 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

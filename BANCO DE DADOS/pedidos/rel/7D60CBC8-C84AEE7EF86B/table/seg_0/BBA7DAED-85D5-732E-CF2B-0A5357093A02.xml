@@ -1,0 +1,68 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="BBA7DAED-85D5-732E-CF2B-0A5357093A02" name="CLIENTES">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:10:08 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<ordsAlias>table_1</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="CPF" id="CF3608EB-243C-7FDC-3A21-384DAF80282D">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:24:42 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NOME" id="A9CEE51A-3CEE-7B18-4BF8-CB1B03D63D70">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:24:42 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ENDERECO" id="66EC54DB-3C19-EF4B-7B26-98DA37FAB70C">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:24:42 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DATA_NASCIMENTO" id="46B2A2C7-8E02-21CA-0ABA-D156FB948D59">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:25:45 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="D571E211-8CC5-CDC8-DDD6-CD2718EEE330" name="pedido_PK">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:24:42 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="CF3608EB-243C-7FDC-3A21-384DAF80282D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

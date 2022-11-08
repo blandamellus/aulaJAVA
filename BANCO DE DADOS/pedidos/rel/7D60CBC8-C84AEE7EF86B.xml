@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="pedido" id="7D60CBC8-0C6C-A04C-5139-C84AEE7EF86B" mainViewID="6096C495-6665-3B0D-0E9C-2959DC2661BF">
+<createdBy>cprog</createdBy>
+<createdTime>2022-11-08 23:09:30 UTC</createdTime>
+<ownerDesignName>pedidos</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>01F6E6D1-21D0-CFBD-ABDD-3988D1813575</selectedRDBMSSite>
+</relationalModel>
